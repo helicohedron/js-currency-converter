@@ -1,4 +1,4 @@
-<h4 align="center">An app that lets you convert any amount into multiple currencies</h4>
+<h4 align="center">An app that lets you convert any amount into multiple currencies. HTML, CSS, and vanilla JS.</h4>
 
 ## Key Features
 
